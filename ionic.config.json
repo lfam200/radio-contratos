@@ -1,0 +1,8 @@
+{
+  "name": "RadioContratos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "22a3e70a"
+}
